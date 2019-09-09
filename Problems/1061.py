@@ -1,3 +1,5 @@
+from datetime import timedelta
+
 diaInicio = input().split(" ")
 horainicio = input().split(" : ")
 diaFim = input().split(" ")

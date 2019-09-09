@@ -13,5 +13,5 @@ ddd = {
 
 try:
     print(ddd[a])
-except:
+except:    
     print('DDD nao cadastrado')
